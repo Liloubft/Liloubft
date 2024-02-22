@@ -1,5 +1,5 @@
 ### Hi there 👋
-Lil'oeuf is in the game 🥚
+Lil'oeuf is in the game 😄
 <!--
 **Liloubft/Liloubft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
