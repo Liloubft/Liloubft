@@ -1,5 +1,5 @@
 ### Hi there 👋
-Lil'oeuf is in the game 😄
+I'm a chemistry student @EPFL
 <!--
 **Liloubft/Liloubft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
